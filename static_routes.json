@@ -1,0 +1,4 @@
+{
+    "gpt-4": {"latency": "low", "cost": "high", "accuracy": "high"},
+    "gpt-3.5": {"latency": "medium", "cost": "medium", "accuracy": "medium"}
+}

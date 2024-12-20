@@ -1,0 +1,4 @@
+flask
+transformers
+prometheus-client
+pytest
